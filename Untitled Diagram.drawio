@@ -1,1 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2022-04-01T01:55:25.329Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" version="17.4.0" etag="NKzy2UuLzwI5wI9gT1g-" type="github"><diagram id="G3su2TEBOcRjOddCMIGC">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-01T04:11:28.162Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="FT8FisJG6JQlIBKXhwz_" version="17.4.0" type="github">
+  <diagram id="G3su2TEBOcRjOddCMIGC" name="第 1 页">
+    <mxGraphModel dx="661" dy="405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ecG9CFnoebXHC6BwQBer-32" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=grid;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;shadow=0;glass=0;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" vertex="1" parent="1">
+          <mxGeometry x="125" y="140" width="125" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="ecG9CFnoebXHC6BwQBer-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ecG9CFnoebXHC6BwQBer-1" target="ecG9CFnoebXHC6BwQBer-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ecG9CFnoebXHC6BwQBer-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/e-commerce-line-style/32/ecommerce_line_style-07-128.png" vertex="1" parent="1">
+          <mxGeometry x="20" y="265" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ecG9CFnoebXHC6BwQBer-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ecG9CFnoebXHC6BwQBer-1" target="ecG9CFnoebXHC6BwQBer-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ecG9CFnoebXHC6BwQBer-112" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ecG9CFnoebXHC6BwQBer-1" target="ecG9CFnoebXHC6BwQBer-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ecG9CFnoebXHC6BwQBer-88" value="排队区" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;container=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="150" width="60" height="30" as="geometry">
+            <mxRectangle x="320" y="190" width="70" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ecG9CFnoebXHC6BwQBer-83" value="常规车队列" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;shadow=0;glass=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="220" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ecG9CFnoebXHC6BwQBer-86" value="NC车队列" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;shadow=0;glass=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="270" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ecG9CFnoebXHC6BwQBer-87" value="全包车队列" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;shadow=0;glass=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="320" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
